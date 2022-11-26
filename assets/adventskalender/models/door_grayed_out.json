@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "adventskalender:frames/grayed_out"
+    },
+    "display": {
+        "gui": {
+            "scale": [1.125, 1.125, 1.125]
+        }
+    }
+}
