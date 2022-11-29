@@ -4,3 +4,10 @@
 !pack.mcmeta
 !/assets
 !/generate
+/assets/minecraft/blockstates
+/assets/minecraft/models
+!/assets/minecraft/models/paper.json
+/assets/minecraft/optifine
+/assets/minecraft/sounds
+/assets/minecraft/textures
+!/assets/minecraft/textures/environment/snow

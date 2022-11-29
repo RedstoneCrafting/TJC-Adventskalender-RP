@@ -182,6 +182,7 @@
       { "predicate": { "custom_model_data": 176}, "model": "adventskalender:door_24_14" },
       { "predicate": { "custom_model_data": 177}, "model": "adventskalender:door_24_15" },
       { "predicate": { "custom_model_data": 178}, "model": "adventskalender:door_decline" },
-      { "predicate": { "custom_model_data": 179}, "model": "adventskalender:return_arrow" }
+      { "predicate": { "custom_model_data": 179}, "model": "adventskalender:door_special" },
+      { "predicate": { "custom_model_data": 180}, "model": "adventskalender:return_arrow" }
     ]
 }
