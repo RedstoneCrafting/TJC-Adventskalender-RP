@@ -1,0 +1,46 @@
+{
+    "entity.husk.ambient": {
+        "replace": true,
+        "sounds": [
+            "mob/husk/idle1",
+            "mob/husk/idle2",
+            "mob/husk/idle3",
+            "mob/husk/idle4",
+            "mob/husk/idle5"
+        ],
+        "subtitle": "subtitles.entity.husk.ambient"
+    },
+    "entity.hoglin.ambient": {
+        "replace": true,
+        "sounds": [
+            "mob/hoglin/idle1",
+            "mob/hoglin/idle2",
+            "mob/hoglin/idle3",
+            "mob/hoglin/idle4",
+            "mob/hoglin/idle5",
+            "mob/hoglin/idle6",
+            "mob/hoglin/idle7",
+            "mob/hoglin/idle8",
+            "mob/hoglin/idle9"
+        ],
+        "subtitle": "subtitles.entity.hoglin.ambient"
+    },
+    "entity.iron_golem.ambient": {
+        "sounds": [
+            "mob/irongolem/idle1",
+            "mob/irongolem/idle2",
+            "mob/irongolem/idle3",
+            "mob/irongolem/idle4"
+        ],
+        "subtitle": "subtitles.entity.iron_golem.ambient"
+    },
+    "entity.creeper.ambient": {
+        "sounds": [
+            "mob/creeper/idle1",
+            "mob/creeper/idle2",
+            "mob/creeper/idle3",
+            "mob/creeper/idle4"
+        ],
+        "subtitle": "subtitles.entity.creeper.ambient"
+    }
+}
