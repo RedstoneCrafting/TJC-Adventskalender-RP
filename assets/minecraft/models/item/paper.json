@@ -188,6 +188,8 @@
       { "predicate": { "custom_model_data": 182}, "model": "adventskalender:snowball_fight" },
       { "predicate": { "custom_model_data": 183}, "model": "adventskalender:sledging" },
       { "predicate": { "custom_model_data": 184}, "model": "adventskalender:elytra_flight" },
-      { "predicate": { "custom_model_data": 185}, "model": "adventskalender:balloon_shooting" }
+      { "predicate": { "custom_model_data": 185}, "model": "adventskalender:balloon_shooting" },
+      { "predicate": { "custom_model_data": 186}, "model": "adventskalender:gift_hunt" },
+      { "predicate": { "custom_model_data": 200}, "model": "adventskalender:server" }
     ]
 }
