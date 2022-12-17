@@ -6,7 +6,8 @@
 !/generate
 /assets/minecraft/blockstates
 /assets/minecraft/models
-!/assets/minecraft/models/paper.json
+!/assets/minecraft/models/item/paper.json
+!/assets/minecraft/models/item/stick.json
 /assets/minecraft/optifine
 /assets/minecraft/sounds/records
 /assets/minecraft/textures

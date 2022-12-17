@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/stick"
+    },
+    "overrides": [
+      { "predicate": { "custom_model_data": 1}, "model": "adventskalender:crosier" },
+      { "predicate": { "custom_model_data": 2}, "model": "adventskalender:gift_bomb" },
+      { "predicate": { "custom_model_data": 3}, "model": "adventskalender:snowman_throwing" },
+      { "predicate": { "custom_model_data": 4}, "model": "adventskalender:christmas_hat" }
+    ]
+}
