@@ -191,6 +191,7 @@
       { "predicate": { "custom_model_data": 185}, "model": "adventskalender:balloon_shooting" },
       { "predicate": { "custom_model_data": 186}, "model": "adventskalender:gift_hunt" },
       { "predicate": { "custom_model_data": 187}, "model": "adventskalender:escape_room" },
+      { "predicate": { "custom_model_data": 188}, "model": "adventskalender:horse_race" },
       { "predicate": { "custom_model_data": 200}, "model": "adventskalender:server" }
     ]
 }
