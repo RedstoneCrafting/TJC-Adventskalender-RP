@@ -1,0 +1,10 @@
+{
+    "gedicht": {
+        "sounds": [
+            {
+                "name": "adventskalender:gedicht",
+                "stream": true
+            }
+        ]
+    }
+}

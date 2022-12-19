@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "adventskalender:crosier"
+        "layer0": "adventskalender:gadgets/crosier"
     }
 }

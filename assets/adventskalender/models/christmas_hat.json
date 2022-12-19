@@ -1,7 +1,7 @@
 {
 	"texture_size": [32, 16],
 	"textures": {
-		"2": "adventskalender:christmas_hat"
+		"2": "adventskalender:gadgets/christmas_hat"
 	},
 	"elements": [
 		{
